@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Then visit `http://localhost:5000` (or the configured port).
+Then visit `http://localhost:5001` (or the configured port).
 
 ## About
 
